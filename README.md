@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I'm Maximous <br><br>I'm a Health Informatics student at TH Deggendorf (Campus Pfarrkirchen) with a strong interest in software development, automation and digital health.  <br>Right now I'm building Rust and Python projects to automate everyday tasks and improve focus, and I'm actively looking for Praktikum and Werkstudent opportunities in software development, health IT, or data-related roles.  <br>I enjoy turning messy real‑life problems into small, robust tools and documenting my work clearly so others can learn from it.<br>
+Hi, ich bin Maximous.
+
+Ich studiere Gesündheit Informatik an der TH Deggendorf (Campus Pfarrkirchen) und interessiere mich besonders für Softwareentwicklung, Automatisierung und digitale Gesundheit.
+Aktuell entwickle ich Rust- und Python-Projekte, um Alltagsaufgaben zu automatisieren und die Konzentration zu verbessern, und ich bin aktiv auf der Suche nach Praktikum- und Werkstudentenstellen in der Softwareentwicklung, im Health-IT-Bereich oder in datenbezogenen Rollen.
+Ich habe Spaß daran, chaotische Alltagsprobleme in kleine, robuste Tools zu verwandeln und meine Arbeit so zu dokumentieren, dass andere daraus lernen können.
+
+.<br>
 
 
 ## 🌐 Socials:
